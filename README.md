@@ -4,7 +4,7 @@
 AtliQ Hardware is growing rapidly in the recent years, and they have decided to implement the data analytics using PowerBi in their company for the first time to surpass their competitors in the market and to make data driven decisions. This project is hoped to give answers to the questions of stakeholder in terms all the aspects like finance, sales, marketing and supply chain.
 
 ## Live Dashboard
-- Explore Live Dashboard [Here](https://app.powerbi.com/view?r=eyJrIjoiODAwMDZkNzEtZTY4ZC00YjBhLWFjNTEtOWZlODhmYjk5YTRjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+- Explore Live Dashboard [Here](https://app.powerbi.com/view?r=eyJrIjoiNmM5ZWY1ZjEtMWM3Zi00YzJhLTg2MjktYTc5NThkOWZlN2FlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=8aa368af42c21dcc17f2)
 
 ## 📚 Key Tech Stacks Covered:
 
@@ -73,7 +73,7 @@ The dashboard seamlessly collects and utilizes data from two primary sources:
 - Poor data modeling affects the over all performance of the report.
 - Following Good practices of data modeling is must.
 - In this project, we have followed Snowfall data modeling method.
-- Explore Live Dashboard [Here](https://app.powerbi.com/view?r=eyJrIjoiODAwMDZkNzEtZTY4ZC00YjBhLWFjNTEtOWZlODhmYjk5YTRjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+- Explore Live Dashboard [Here](https://app.powerbi.com/view?r=eyJrIjoiNmM5ZWY1ZjEtMWM3Zi00YzJhLTg2MjktYTc5NThkOWZlN2FlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=8aa368af42c21dcc17f2)
 
   ![image alt](https://github.com/LakshmiVaraPrasad-P/Business_Insights_360_PowerBI/blob/e068eaa03ab8657fb84e3386fb18dbcc104dedb9/Assets/Data%20Model.png)
 
@@ -93,7 +93,7 @@ In Home view, all the views button will be available. User will land on specific
 - Supply chain View
 - Executive View
 - Support
-- Explore Live Dashboard [Here](https://app.powerbi.com/view?r=eyJrIjoiODAwMDZkNzEtZTY4ZC00YjBhLWFjNTEtOWZlODhmYjk5YTRjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+- Explore Live Dashboard [Here](https://app.powerbi.com/view?r=eyJrIjoiNmM5ZWY1ZjEtMWM3Zi00YzJhLTg2MjktYTc5NThkOWZlN2FlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=8aa368af42c21dcc17f2)
 ## Finance View
 
 ![image alt](https://github.com/LakshmiVaraPrasad-P/Business_Insights_360_PowerBI/blob/e068eaa03ab8657fb84e3386fb18dbcc104dedb9/Assets/Finance%20View.png)
